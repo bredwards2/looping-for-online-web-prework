@@ -4,5 +4,5 @@ def using_for
 	for checklist in using_for 
     puts "I'm putting a pair of shoes away."
 end
-
+end
 
